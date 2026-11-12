@@ -4,6 +4,8 @@
 
 # BarDeck
 
+[![CI](https://github.com/IslamovMukhammad/BarDeck/actions/workflows/ci.yml/badge.svg)](https://github.com/IslamovMukhammad/BarDeck/actions/workflows/ci.yml)
+
 **Turn your MacBook's Touch Bar into a live deck: Spotify, Claude Code status, a quick timer, sliders, Xcode progress and a health glow.**
 
 A free, open-source menu-bar app that takes over the Touch Bar in every app.
